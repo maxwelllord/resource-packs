@@ -2,3 +2,5 @@
 This pack icon improves the visibility of disabled spells in the spellbook.
 
 ![Example](https://github.com/maxwelllord/resource-packs/blob/what-the-spell-master/example.png?raw=true)
+
+Note to self: Run .bat then .py
